@@ -1,0 +1,28 @@
+@media (max-width:1000px){
+    .contact_form{
+        width: 100%;
+        margin-bottom: 50px;
+        font-size: 24px;
+    }
+    input{
+        width: 100%;
+    }
+    .contact_submit{
+        width: 100%;
+    }
+
+}
+
+@media (max-width:670px){
+    .contact_form{
+        width: 100%;
+        font-size: 12px;
+    }
+    input{
+        width: 100%;
+    }
+    .contact_submit{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
